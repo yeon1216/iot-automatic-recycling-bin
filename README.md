@@ -1,6 +1,6 @@
 # iot-automatic-recycling-bin
 
-![iot-automatic-recycling-bin](https://github.com/yeon1216/iot-automatic-recycling-bin/blob/master/iot-automatic-recycling-bin.jpg?raw=true)
+![iot-automatic-recycling-bin](https://github.com/yeon1216/iot-automatic-recycling-bin/blob/master/iot-automatic-recycling-bin.png?raw=true)
 
 # arduino.ino
 
