@@ -1,5 +1,7 @@
 # iot-automatic-recycling-bin
 
+![Uploading iot-automatic-recycling-bin.jpg…]()
+
 # arduino.ino
 
 - 푸시버튼과 금속센서를 연결시킨 아두이노에 입력시킨 코드
@@ -18,4 +20,5 @@
 4. 서버에 유리인지 플라스틱인지 분석 Http 요청
 
 # 영상 링크
+
 https://youtu.be/bhTwaFPkd2s
