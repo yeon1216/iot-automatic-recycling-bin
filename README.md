@@ -19,6 +19,10 @@
 3. 금속일 경우 카메라로 쓰레기 촬영
 4. 서버에 유리인지 플라스틱인지 분석 Http 요청
 
+# 사용한 모델
+
+https://github.com/antiplasti/Plastic-Detection-Model
+
 # 영상 링크
 
 https://youtu.be/bhTwaFPkd2s
