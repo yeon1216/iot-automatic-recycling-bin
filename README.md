@@ -1,5 +1,9 @@
 # iot-automatic-recycling-bin
 
+git-hub : [https://github.com/yeon1216/iot-automatic-recycling-bin](https://github.com/yeon1216/iot-automatic-recycling-bin)
+
+youtube : https://youtu.be/bhTwaFPkd2s
+
 ![iot-automatic-recycling-bin](https://github.com/yeon1216/iot-automatic-recycling-bin/blob/master/iot-automatic-recycling-bin.png?raw=true)
 
 # arduino.ino
@@ -23,6 +27,3 @@
 
 https://github.com/antiplasti/Plastic-Detection-Model
 
-# 영상 링크
-
-https://youtu.be/bhTwaFPkd2s
